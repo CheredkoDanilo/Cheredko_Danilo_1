@@ -1,0 +1,7 @@
+C:\Users\Данило\source\repos\Pr_lab1\Pr_lab1\bin\Debug\Pr_lab1.exe.config
+C:\Users\Данило\source\repos\Pr_lab1\Pr_lab1\bin\Debug\Pr_lab1.exe
+C:\Users\Данило\source\repos\Pr_lab1\Pr_lab1\bin\Debug\Pr_lab1.pdb
+C:\Users\Данило\source\repos\Pr_lab1\Pr_lab1\obj\Debug\Pr_lab1.csproj.AssemblyReference.cache
+C:\Users\Данило\source\repos\Pr_lab1\Pr_lab1\obj\Debug\Pr_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Данило\source\repos\Pr_lab1\Pr_lab1\obj\Debug\Pr_lab1.exe
+C:\Users\Данило\source\repos\Pr_lab1\Pr_lab1\obj\Debug\Pr_lab1.pdb
